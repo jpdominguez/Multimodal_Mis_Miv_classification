@@ -1,0 +1,13 @@
+# Pipeline principal (probado con Python 3.10, PyTorch 1.13.1 + CUDA 11.8)
+torch==1.13.1
+torchvision==0.14.1
+numpy
+pandas
+scikit-learn
+scipy
+statsmodels
+pillow
+matplotlib
+seaborn
+tqdm
+openpyxl

@@ -1,0 +1,260 @@
+x6_film cv_r0_f0
+x6_film_mlr10 cv_r0_f0
+x6_add_lin cv_r0_f0
+x6_add_mlp cv_r0_f0
+x6_concat_mlr10 cv_r0_f0
+x6_concat_light cv_r0_f0
+x6_image_s1 cv_r0_f0
+x6_image_s2 cv_r0_f0
+x6_concat_s1 cv_r0_f0
+x6_concat_s2 cv_r0_f0
+image cv_r0_f0 --inner 0
+image cv_r0_f0 --inner 1
+image cv_r0_f0 --inner 2
+image cv_r0_f0 --inner 3
+image cv_r0_f0 --inner 4
+x4_moddrop15 cv_r0_f0 --overwrite
+x4_moddrop30 cv_r0_f0 --overwrite
+x4_moddrop50 cv_r0_f0 --overwrite
+x4_moddrop30_sym cv_r0_f0 --overwrite
+x4_aux10 cv_r0_f0 --overwrite
+x4_aux30 cv_r0_f0 --overwrite
+x4_ce_nomix cv_r0_f0 --overwrite
+x6_film cv_r0_f1
+x6_film_mlr10 cv_r0_f1
+x6_add_lin cv_r0_f1
+x6_add_mlp cv_r0_f1
+x6_concat_mlr10 cv_r0_f1
+x6_concat_light cv_r0_f1
+x6_image_s1 cv_r0_f1
+x6_image_s2 cv_r0_f1
+x6_concat_s1 cv_r0_f1
+x6_concat_s2 cv_r0_f1
+image cv_r0_f1 --inner 0
+image cv_r0_f1 --inner 1
+image cv_r0_f1 --inner 2
+image cv_r0_f1 --inner 3
+image cv_r0_f1 --inner 4
+x4_moddrop15 cv_r0_f1 --overwrite
+x4_moddrop30 cv_r0_f1 --overwrite
+x4_moddrop50 cv_r0_f1 --overwrite
+x4_moddrop30_sym cv_r0_f1 --overwrite
+x4_aux10 cv_r0_f1 --overwrite
+x4_aux30 cv_r0_f1 --overwrite
+x4_ce_nomix cv_r0_f1 --overwrite
+x6_film cv_r0_f2
+x6_film_mlr10 cv_r0_f2
+x6_add_lin cv_r0_f2
+x6_add_mlp cv_r0_f2
+x6_concat_mlr10 cv_r0_f2
+x6_concat_light cv_r0_f2
+x6_image_s1 cv_r0_f2
+x6_image_s2 cv_r0_f2
+x6_concat_s1 cv_r0_f2
+x6_concat_s2 cv_r0_f2
+image cv_r0_f2 --inner 0
+image cv_r0_f2 --inner 1
+image cv_r0_f2 --inner 2
+image cv_r0_f2 --inner 3
+image cv_r0_f2 --inner 4
+x4_moddrop15 cv_r0_f2 --overwrite
+x4_moddrop30 cv_r0_f2 --overwrite
+x4_moddrop50 cv_r0_f2 --overwrite
+x4_moddrop30_sym cv_r0_f2 --overwrite
+x4_aux10 cv_r0_f2 --overwrite
+x4_aux30 cv_r0_f2 --overwrite
+x4_ce_nomix cv_r0_f2 --overwrite
+x6_film cv_r0_f3
+x6_film_mlr10 cv_r0_f3
+x6_add_lin cv_r0_f3
+x6_add_mlp cv_r0_f3
+x6_concat_mlr10 cv_r0_f3
+x6_concat_light cv_r0_f3
+x6_image_s1 cv_r0_f3
+x6_image_s2 cv_r0_f3
+x6_concat_s1 cv_r0_f3
+x6_concat_s2 cv_r0_f3
+image cv_r0_f3 --inner 0
+image cv_r0_f3 --inner 1
+image cv_r0_f3 --inner 2
+image cv_r0_f3 --inner 3
+image cv_r0_f3 --inner 4
+x4_moddrop15 cv_r0_f3 --overwrite
+x4_moddrop30 cv_r0_f3 --overwrite
+x4_moddrop50 cv_r0_f3 --overwrite
+x4_moddrop30_sym cv_r0_f3 --overwrite
+x4_aux10 cv_r0_f3 --overwrite
+x4_aux30 cv_r0_f3 --overwrite
+x4_ce_nomix cv_r0_f3 --overwrite
+x6_film cv_r0_f4
+x6_film_mlr10 cv_r0_f4
+x6_add_lin cv_r0_f4
+x6_add_mlp cv_r0_f4
+x6_concat_mlr10 cv_r0_f4
+x6_concat_light cv_r0_f4
+x6_image_s1 cv_r0_f4
+x6_image_s2 cv_r0_f4
+x6_concat_s1 cv_r0_f4
+x6_concat_s2 cv_r0_f4
+image cv_r0_f4 --inner 0
+image cv_r0_f4 --inner 1
+image cv_r0_f4 --inner 2
+image cv_r0_f4 --inner 3
+image cv_r0_f4 --inner 4
+x4_moddrop15 cv_r0_f4 --overwrite
+x4_moddrop30 cv_r0_f4 --overwrite
+x4_moddrop50 cv_r0_f4 --overwrite
+x4_moddrop30_sym cv_r0_f4 --overwrite
+x4_aux10 cv_r0_f4 --overwrite
+x4_aux30 cv_r0_f4 --overwrite
+x4_ce_nomix cv_r0_f4 --overwrite
+x6_film cv_r1_f0
+x6_film_mlr10 cv_r1_f0
+x6_add_lin cv_r1_f0
+x6_add_mlp cv_r1_f0
+x6_concat_mlr10 cv_r1_f0
+x6_concat_light cv_r1_f0
+x6_image_s1 cv_r1_f0
+x6_image_s2 cv_r1_f0
+x6_concat_s1 cv_r1_f0
+x6_concat_s2 cv_r1_f0
+image cv_r1_f0 --inner 0
+image cv_r1_f0 --inner 1
+image cv_r1_f0 --inner 2
+image cv_r1_f0 --inner 3
+image cv_r1_f0 --inner 4
+x6_film cv_r1_f1
+x6_film_mlr10 cv_r1_f1
+x6_add_lin cv_r1_f1
+x6_add_mlp cv_r1_f1
+x6_concat_mlr10 cv_r1_f1
+x6_concat_light cv_r1_f1
+x6_image_s1 cv_r1_f1
+x6_image_s2 cv_r1_f1
+x6_concat_s1 cv_r1_f1
+x6_concat_s2 cv_r1_f1
+image cv_r1_f1 --inner 0
+image cv_r1_f1 --inner 1
+image cv_r1_f1 --inner 2
+image cv_r1_f1 --inner 3
+image cv_r1_f1 --inner 4
+x6_film cv_r1_f2
+x6_film_mlr10 cv_r1_f2
+x6_add_lin cv_r1_f2
+x6_add_mlp cv_r1_f2
+x6_concat_mlr10 cv_r1_f2
+x6_concat_light cv_r1_f2
+x6_image_s1 cv_r1_f2
+x6_image_s2 cv_r1_f2
+x6_concat_s1 cv_r1_f2
+x6_concat_s2 cv_r1_f2
+image cv_r1_f2 --inner 0
+image cv_r1_f2 --inner 1
+image cv_r1_f2 --inner 2
+image cv_r1_f2 --inner 3
+image cv_r1_f2 --inner 4
+x6_film cv_r1_f3
+x6_film_mlr10 cv_r1_f3
+x6_add_lin cv_r1_f3
+x6_add_mlp cv_r1_f3
+x6_concat_mlr10 cv_r1_f3
+x6_concat_light cv_r1_f3
+x6_image_s1 cv_r1_f3
+x6_image_s2 cv_r1_f3
+x6_concat_s1 cv_r1_f3
+x6_concat_s2 cv_r1_f3
+image cv_r1_f3 --inner 0
+image cv_r1_f3 --inner 1
+image cv_r1_f3 --inner 2
+image cv_r1_f3 --inner 3
+image cv_r1_f3 --inner 4
+x6_film cv_r1_f4
+x6_film_mlr10 cv_r1_f4
+x6_add_lin cv_r1_f4
+x6_add_mlp cv_r1_f4
+x6_concat_mlr10 cv_r1_f4
+x6_concat_light cv_r1_f4
+x6_image_s1 cv_r1_f4
+x6_image_s2 cv_r1_f4
+x6_concat_s1 cv_r1_f4
+x6_concat_s2 cv_r1_f4
+image cv_r1_f4 --inner 0
+image cv_r1_f4 --inner 1
+image cv_r1_f4 --inner 2
+image cv_r1_f4 --inner 3
+image cv_r1_f4 --inner 4
+x6_film cv_r2_f0
+x6_film_mlr10 cv_r2_f0
+x6_add_lin cv_r2_f0
+x6_add_mlp cv_r2_f0
+x6_concat_mlr10 cv_r2_f0
+x6_concat_light cv_r2_f0
+x6_image_s1 cv_r2_f0
+x6_image_s2 cv_r2_f0
+x6_concat_s1 cv_r2_f0
+x6_concat_s2 cv_r2_f0
+image cv_r2_f0 --inner 0
+image cv_r2_f0 --inner 1
+image cv_r2_f0 --inner 2
+image cv_r2_f0 --inner 3
+image cv_r2_f0 --inner 4
+x6_film cv_r2_f1
+x6_film_mlr10 cv_r2_f1
+x6_add_lin cv_r2_f1
+x6_add_mlp cv_r2_f1
+x6_concat_mlr10 cv_r2_f1
+x6_concat_light cv_r2_f1
+x6_image_s1 cv_r2_f1
+x6_image_s2 cv_r2_f1
+x6_concat_s1 cv_r2_f1
+x6_concat_s2 cv_r2_f1
+image cv_r2_f1 --inner 0
+image cv_r2_f1 --inner 1
+image cv_r2_f1 --inner 2
+image cv_r2_f1 --inner 3
+image cv_r2_f1 --inner 4
+x6_film cv_r2_f2
+x6_film_mlr10 cv_r2_f2
+x6_add_lin cv_r2_f2
+x6_add_mlp cv_r2_f2
+x6_concat_mlr10 cv_r2_f2
+x6_concat_light cv_r2_f2
+x6_image_s1 cv_r2_f2
+x6_image_s2 cv_r2_f2
+x6_concat_s1 cv_r2_f2
+x6_concat_s2 cv_r2_f2
+image cv_r2_f2 --inner 0
+image cv_r2_f2 --inner 1
+image cv_r2_f2 --inner 2
+image cv_r2_f2 --inner 3
+image cv_r2_f2 --inner 4
+x6_film cv_r2_f3
+x6_film_mlr10 cv_r2_f3
+x6_add_lin cv_r2_f3
+x6_add_mlp cv_r2_f3
+x6_concat_mlr10 cv_r2_f3
+x6_concat_light cv_r2_f3
+x6_image_s1 cv_r2_f3
+x6_image_s2 cv_r2_f3
+x6_concat_s1 cv_r2_f3
+x6_concat_s2 cv_r2_f3
+image cv_r2_f3 --inner 0
+image cv_r2_f3 --inner 1
+image cv_r2_f3 --inner 2
+image cv_r2_f3 --inner 3
+image cv_r2_f3 --inner 4
+x6_film cv_r2_f4
+x6_film_mlr10 cv_r2_f4
+x6_add_lin cv_r2_f4
+x6_add_mlp cv_r2_f4
+x6_concat_mlr10 cv_r2_f4
+x6_concat_light cv_r2_f4
+x6_image_s1 cv_r2_f4
+x6_image_s2 cv_r2_f4
+x6_concat_s1 cv_r2_f4
+x6_concat_s2 cv_r2_f4
+image cv_r2_f4 --inner 0
+image cv_r2_f4 --inner 1
+image cv_r2_f4 --inner 2
+image cv_r2_f4 --inner 3
+image cv_r2_f4 --inner 4

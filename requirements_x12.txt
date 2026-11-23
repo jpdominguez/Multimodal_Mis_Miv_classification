@@ -1,0 +1,14 @@
+# Entorno aparte solo para la batería x12 (29_x12_tabpfn_monet.py): TabPFN y MONET
+torch==2.5.1
+torchvision==0.20.1
+tabpfn==2.0.9
+transformers==4.46.3
+numpy<2.3
+pandas
+scipy
+statsmodels
+pillow
+scikit-learn>=1.2,<1.7
+huggingface_hub
+einops
+safetensors
