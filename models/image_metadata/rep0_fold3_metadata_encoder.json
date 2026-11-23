@@ -1,0 +1,43 @@
+{
+  "meta_vars": [
+    "age",
+    "sex",
+    "site",
+    "diam"
+  ],
+  "age_enc": "cont",
+  "diam_enc": "cont",
+  "missing": "indicator",
+  "stats": {
+    "age_mean": 61.18762746430999,
+    "age_sd": 16.172207090881997,
+    "age_median": 63.0,
+    "dl_mean": 2.522681338997967,
+    "dl_sd": 0.47985508833391755,
+    "dl_median": 2.4849066497880004,
+    "ratio_mean": 0.73915154950237,
+    "ratio_sd": 0.16037575248390157,
+    "ratio_median": 0.75,
+    "d1_mean": 13.063461538461539,
+    "d1_sd": 7.770053786215101,
+    "d2_mean": 10.203147353361945,
+    "d2_sd": 6.2124693303276475,
+    "sex_mode": "MALE",
+    "site_mode": "TORSO"
+  },
+  "names": [
+    "age_z",
+    "age_missing",
+    "sex_FEMALE",
+    "sex_MALE",
+    "sex_missing",
+    "site_HEAD_NECK",
+    "site_TORSO",
+    "site_UPPER_LIMB",
+    "site_LOWER_LIMB",
+    "site_ACRAL",
+    "site_missing",
+    "diam_log_z",
+    "diam_missing"
+  ]
+}

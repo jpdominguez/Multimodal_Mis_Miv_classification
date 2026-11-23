@@ -70,6 +70,7 @@ missingness cannot leak the label. Mixup interpolates images, metadata and label
 | `pipeline/` | Main pipeline: numbered scripts, run in order |
 | `pipeline/common.py`, `pipeline/experiments.py` | Data loading, metadata encoding, models and the registry of every experiment |
 | `pipeline/slurm/` | SLURM scripts and task lists for an HPC cluster |
+| `models/` | Trained weights of the image-only and image + metadata models for every cross-validation split ([details](models/README.md)) |
 | `legacy/train_v3.py` | Earlier training script, used only by the audit in `pipeline/00_audit_legacy.py` |
 
 ## 🚀 Quick start

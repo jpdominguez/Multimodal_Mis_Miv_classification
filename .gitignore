@@ -230,3 +230,7 @@ pipeline/*.md
 *.pth
 *.npz
 .DS_Store
+
+# Pesos entrenados publicados
+!models/
+!models/**
